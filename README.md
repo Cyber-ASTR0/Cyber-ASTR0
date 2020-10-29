@@ -1,14 +1,5 @@
 ### Welmcome To ASTRO Account
-### 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-python&logoColor=white)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-ruby&logoColor=white)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-c++&logoColor=white)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-perl&logoColor=white)
 ### 📊 My Account Statistics
 
 <a href="#">
