@@ -1,4 +1,4 @@
-### Welmcome To ASTRO acc
+### Welmcome To ASTRO Account
 ### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
