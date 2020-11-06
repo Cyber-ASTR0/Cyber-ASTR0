@@ -10,6 +10,8 @@
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c++&logoColor=white)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white)
+![](https://img.shields.io/badge/Code-CS-informational?style=flat&logo=c#&logoColor=white)
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cyber-ASTR0&hide=[%22issues%22]&show_icons=true" />
