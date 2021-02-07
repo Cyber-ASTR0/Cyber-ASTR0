@@ -1,4 +1,3 @@
-<center>
 ### Welmcome To ASTRO Account
 
 ### 📊 My Account Statistics
@@ -23,4 +22,3 @@
 <a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Cyber-ASTR0&layout=compact&theme=radical">
   <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Cyber-ASTR0&layout=compact&theme=radical" />
 </a>
-</center>
