@@ -17,8 +17,3 @@
  visitors<br><br>
   <img src="https://profile-counter.glitch.me/Cyber-ASTR0/count.svg" />
 </p>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Cyber-ASTR0&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=Cyber-ASTR0&show_icons=true&hide_border=true&count_private=false&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Cyber-ASTR0&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=Cyber-ASTR0&layout=compact&theme=radical" />
-</a>
